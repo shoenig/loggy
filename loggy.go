@@ -1,5 +1,5 @@
 // Package loggy provides a simple logging package.
-package loggy
+package loggy // import "go.gophers.dev/pkgs/loggy"
 
 import (
 	"io/ioutil"
