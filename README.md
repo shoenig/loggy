@@ -3,6 +3,12 @@ loggy
 
 Go's worst logging package.
 
+[![Go Report Card](https://goreportcard.com/badge/go.gophers.dev/pkgs/loggy)](https://goreportcard.com/report/go.gophers.dev/pkgs/loggy)
+[![Build Status](https://travis-ci.com/shoenig/loggy.svg?branch=master)](https://travis-ci.com/shoenig/loggy)
+[![GoDoc](https://godoc.org/go.gophers.dev/pkgs/loggy?status.svg)](https://godoc.org/go.gophers.dev/pkgs/loggy)
+![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/shoenig/loggy.svg)
+![GitHub](https://img.shields.io/github/license/shoenig/loggy.svg)
+
 # Project Overview
 
 Package `loggy` provides a simple logging library. It is focused on providing
