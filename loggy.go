@@ -48,14 +48,14 @@ type Options struct {
 	Output Printer
 }
 
-// New creates a Logger which sends output to os.Stderr with each log line
+// New creates a Logger which sends output to os.Stdout with each log line
 // tagged with the given prefix.
 //
 // To control the output destination, use Configure to create the Logger instead.
 func New(prefix string) Logger {
 	return Configure(Options{
 		Prefix: prefix,
-		Output: Open(os.Stderr),
+		Output: Open(os.Stdout),
 	})
 }
 
