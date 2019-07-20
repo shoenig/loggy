@@ -3,9 +3,9 @@ loggy
 
 Go's worst logging package.
 
-[![Go Report Card](https://goreportcard.com/badge/go.gophers.dev/pkgs/loggy)](https://goreportcard.com/report/go.gophers.dev/pkgs/loggy)
+[![Go Report Card](https://goreportcard.com/badge/gophers.dev/pkgs/loggy)](https://goreportcard.com/report/gophers.dev/pkgs/loggy)
 [![Build Status](https://travis-ci.com/shoenig/loggy.svg?branch=master)](https://travis-ci.com/shoenig/loggy)
-[![GoDoc](https://godoc.org/go.gophers.dev/pkgs/loggy?status.svg)](https://godoc.org/go.gophers.dev/pkgs/loggy)
+[![GoDoc](https://godoc.org/gophers.dev/pkgs/loggy?status.svg)](https://godoc.org/gophers.dev/pkgs/loggy)
 ![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/shoenig/loggy.svg)
 ![GitHub](https://img.shields.io/github/license/shoenig/loggy.svg)
 
@@ -18,7 +18,7 @@ the bare minimum implementation of a leveled-logger for Go projects.
 
 The `loggy` package can be installed by running:
 ```
-$ go get go.gophers.dev/pkgs/loggy
+$ go get gophers.dev/pkgs/loggy
 ```
 
 #### Example Usage
@@ -46,4 +46,4 @@ Bug fixes and good ideas though are always welcome, please just file an issue.
 
 # License
 
-The `go.gophers.dev/pkgs/loggy` module is open source under the [BSD-3-Clause](LICENSE) license.
+The `gophers.dev/pkgs/loggy` module is open source under the [BSD-3-Clause](LICENSE) license.
