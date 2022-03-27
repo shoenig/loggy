@@ -1,3 +1,3 @@
 module gophers.dev/pkgs/loggy
 
-go 1.12
+go 1.17
