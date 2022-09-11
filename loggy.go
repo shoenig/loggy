@@ -1,5 +1,5 @@
 // Package loggy provides a simple logging library for Go.
-package loggy // import "gophers.dev/pkgs/loggy"
+package loggy
 
 import (
 	"log"
