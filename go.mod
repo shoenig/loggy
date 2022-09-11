@@ -1,3 +1,3 @@
-module gophers.dev/pkgs/loggy
+module github.com/shoenig/loggy
 
 go 1.17
