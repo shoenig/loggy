@@ -2,6 +2,12 @@ before:
   hooks:
     - go mod tidy
 builds:
+  - id: "loggy"
+    buildmode: "archive"
+    goos:
+      - linux
+    goarch:
+      - amd64
 checksum:
   name_template: 'checksums.txt'
 snapshot:
